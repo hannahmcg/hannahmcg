@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hannahmcg
-- I'm the original creator of this repository! 
 - I majored in Cognitive Science and Economics at UC Berkeley. 
 - Email me at hannahhmcgowan@gmail.com if you'd like to reach me! 
 
